@@ -26,8 +26,8 @@ Clone, customize, and innovate! Built with modern web tech.
 ## 🧩 Project Matrix
 | Project | Stack | Key Features |
 |---------|-------|--------------|
-| **[JioCinema ](twitter-redesign/)** | HTML/CSS/JS |  Hero slider, CSS Grid |
-| **[Netflix ](netflix-clone/)** | HTML/CSS/JS | Hero slider, CSS Grid |
+| **[JioCinema](/)** | HTML/CSS/JS |  Hero slider, CSS Grid |
+| **[Netflix ](/)** | HTML/CSS/JS | Hero slider, CSS Grid |
 
 
 
