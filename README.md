@@ -26,9 +26,8 @@ Clone, customize, and innovate! Built with modern web tech.
 ## 🧩 Project Matrix
 | Project | Stack | Key Features |
 |---------|-------|--------------|
-| **[Spotify Lite](spotify-clone/)** | HTML/CSS/JS | UI/UX |
-| **[JioCinema Progressive](twitter-redesign/)** | Next.js + Tailwind | OAuth-ready, dark mode |
-| **[Netflix Static](netflix-clone/)** | Vanilla JS | Hero slider, CSS Grid |
+| **[JioCinema ](twitter-redesign/)** | HTML/CSS/JS |  Hero slider, CSS Grid |
+| **[Netflix ](netflix-clone/)** | HTML/CSS/JS | Hero slider, CSS Grid |
 
 
 
